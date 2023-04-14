@@ -1,7 +1,7 @@
 # NTPclock_16x8
 inspired by https://github.com/707pheonix
 
-my article: Ceas NTP pe afisaj 16x8 leduri adresabile
+my article: [Ceas NTP pe afisaj 16x8 leduri adresabile](https://nicuflorica.blogspot.com/2023/04/ceas-ntp-pe-afisaj-16x8-leduri.html)
 
 ![general](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOpSAybMsrWUOia3C33OPAkM5C3ThR0vY09eZVo2GtnwoqP90yd11aboPQ0ae2GcKVd_zedHevnGS0Jby1108V-XWxrn8lkbIRw-dGOTyMHksXTc2Fk6LrN42yYHZCV4u77wjoylcYmfUT28RWiqKt_mq91-E5Kpr7ju6V5v9EZ4rEJBSKcc75b3ArRA/w200-h95/NTPclock_16x8_general.png)
 ![ceas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE1acEuaR6LUFueTVdKG7igYSMzEp_lHJ2xogoLVDbtLZUQ7XGjWibnWUbQ_V-NkBTlvJxMDL5RRDKTlWWoZdVFF9jKeYfbpgDYYbrCV-lJnZEhpIJsKawsHsLdowseDUx3uVXuptp2e01B8QRdthYawtwYKxaV8e2UJn8dkR8yJnVk_nDps1_WvjcjQ/w200-h96/ora_12_02.jpg)
