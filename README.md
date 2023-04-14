@@ -1,2 +1,10 @@
 # NTPclock_16x8
-insired by https://github.com/707pheonix
+inspired by https://github.com/707pheonix
+
+my article: Ceas NTP pe afisaj 16x8 leduri adresabile
+
+![general](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOpSAybMsrWUOia3C33OPAkM5C3ThR0vY09eZVo2GtnwoqP90yd11aboPQ0ae2GcKVd_zedHevnGS0Jby1108V-XWxrn8lkbIRw-dGOTyMHksXTc2Fk6LrN42yYHZCV4u77wjoylcYmfUT28RWiqKt_mq91-E5Kpr7ju6V5v9EZ4rEJBSKcc75b3ArRA/w200-h95/NTPclock_16x8_general.png)
+![ceas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE1acEuaR6LUFueTVdKG7igYSMzEp_lHJ2xogoLVDbtLZUQ7XGjWibnWUbQ_V-NkBTlvJxMDL5RRDKTlWWoZdVFF9jKeYfbpgDYYbrCV-lJnZEhpIJsKawsHsLdowseDUx3uVXuptp2e01B8QRdthYawtwYKxaV8e2UJn8dkR8yJnVk_nDps1_WvjcjQ/w200-h96/ora_12_02.jpg)
+
+![schematic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWzLXncEof-hVGHXiQz4Y-fosUpMyNl8vJfTmqlYf3KLhruCTieju1oxV9q4WiYduId4tjjt1FiyKFVwI2Demm21BKiYdQIi5d5P0fr4vH21w3uKKJ2uQ3FRHEAKUIz_wZ_NS58Tn1Rf7hMzg0r0ndvMvXgY3wJdt2O858FChVwVbV5hd0Y2vPT5ierg/s1121/NTPclock_16x8_ws2812_sch_v1.png)
+
