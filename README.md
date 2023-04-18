@@ -8,3 +8,4 @@ my article: [Ceas NTP pe afisaj 16x8 leduri adresabile](https://nicuflorica.blog
 
 ![schematic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWzLXncEof-hVGHXiQz4Y-fosUpMyNl8vJfTmqlYf3KLhruCTieju1oxV9q4WiYduId4tjjt1FiyKFVwI2Demm21BKiYdQIi5d5P0fr4vH21w3uKKJ2uQ3FRHEAKUIz_wZ_NS58Tn1Rf7hMzg0r0ndvMvXgY3wJdt2O858FChVwVbV5hd0Y2vPT5ierg/s1121/NTPclock_16x8_ws2812_sch_v1.png)
 
+![schematic v2](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhOTGtNicFl3oVvQkguZHq24UNh51pF5F8qZpjwmg2eL4IseFMrjhB2FFkdAaSfxDODpfAr6ULOSxcdaMFcJR0Ra77jue31j7F58SxFcTxQZaBDSWZqHeYqoPEoOiXe4xxd8ewJde1zxYvN4LaVA4GObuF8OJnL2dEzz1fNainlyv29mKmk9WoS5FUxGA/s1141/NTPclock_16x8_ws2812_sch_v2.png)
