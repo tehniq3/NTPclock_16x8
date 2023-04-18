@@ -1,14 +1,15 @@
 # NTPclock_16x8
 inspired by https://github.com/707pheonix
 
-my article: [Ceas NTP pe afisaj 16x8 leduri adresabile](https://nicuflorica.blogspot.com/2023/04/ceas-ntp-pe-afisaj-16x8-leduri.html)
+1st article: [Ceas NTP pe afisaj 16x8 leduri adresabile](https://nicuflorica.blogspot.com/2023/04/ceas-ntp-pe-afisaj-16x8-leduri.html)
+2nd article: https://nicuflorica.blogspot.com/2023/04/ceas-ntp-cu-selectie-ora-varaiarna-pe.html
 
 ![general](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjOpSAybMsrWUOia3C33OPAkM5C3ThR0vY09eZVo2GtnwoqP90yd11aboPQ0ae2GcKVd_zedHevnGS0Jby1108V-XWxrn8lkbIRw-dGOTyMHksXTc2Fk6LrN42yYHZCV4u77wjoylcYmfUT28RWiqKt_mq91-E5Kpr7ju6V5v9EZ4rEJBSKcc75b3ArRA/w200-h95/NTPclock_16x8_general.png)
 ![ceas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiE1acEuaR6LUFueTVdKG7igYSMzEp_lHJ2xogoLVDbtLZUQ7XGjWibnWUbQ_V-NkBTlvJxMDL5RRDKTlWWoZdVFF9jKeYfbpgDYYbrCV-lJnZEhpIJsKawsHsLdowseDUx3uVXuptp2e01B8QRdthYawtwYKxaV8e2UJn8dkR8yJnVk_nDps1_WvjcjQ/w200-h96/ora_12_02.jpg)
 
 ![schematic](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhWzLXncEof-hVGHXiQz4Y-fosUpMyNl8vJfTmqlYf3KLhruCTieju1oxV9q4WiYduId4tjjt1FiyKFVwI2Demm21BKiYdQIi5d5P0fr4vH21w3uKKJ2uQ3FRHEAKUIz_wZ_NS58Tn1Rf7hMzg0r0ndvMvXgY3wJdt2O858FChVwVbV5hd0Y2vPT5ierg/s1121/NTPclock_16x8_ws2812_sch_v1.png)
 
-![DST](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2HbFI_GeAqUcTW5rbE2ODEGkQAcU2A6dnlw0NSPtSZsKycyFJ4iPdctf8yO-05cGefDPWWVhDGR7cQuJthQEOwdT2O0CTK-jUaEAN-03A6KOIF9WFSq_V9Lbfx12YBiG_qxTgnBVkc6x68FCDVHVD08WnKfZgkZSKp2afuw9RdayHJug7_yqIdrkk3g/w200-h150/ceas2_noDST.png)
+![DST]([https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2HbFI_GeAqUcTW5rbE2ODEGkQAcU2A6dnlw0NSPtSZsKycyFJ4iPdctf8yO-05cGefDPWWVhDGR7cQuJthQEOwdT2O0CTK-jUaEAN-03A6KOIF9WFSq_V9Lbfx12YBiG_qxTgnBVkc6x68FCDVHVD08WnKfZgkZSKp2afuw9RdayHJug7_yqIdrkk3g/w200-h150/ceas2_noDST.png](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhI9D3yvBw9t64J7dIQsRM_69_WdiReS4B-_DFSMY0SpEj2ISM5k9Y3lIfmZszXWuTMmpzUa0KcF5euluXXNsPKlBszYegE4uelmwhoC_tDjCAlrap4Vs6bZU_xpPtetQ1wUDABN3Jmm9kM4DhADntIuKBe8NaS41W-yqi2wW1zHO3XTr7BTLdWhWPryQ/w200-h150/ceas2_DST.png)
 ![noDST](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg2HbFI_GeAqUcTW5rbE2ODEGkQAcU2A6dnlw0NSPtSZsKycyFJ4iPdctf8yO-05cGefDPWWVhDGR7cQuJthQEOwdT2O0CTK-jUaEAN-03A6KOIF9WFSq_V9Lbfx12YBiG_qxTgnBVkc6x68FCDVHVD08WnKfZgkZSKp2afuw9RdayHJug7_yqIdrkk3g/w200-h150/ceas2_noDST.png)
 
 
